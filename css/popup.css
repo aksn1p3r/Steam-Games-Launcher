@@ -1,0 +1,30 @@
+body {
+background-color: #E7E7E7;
+font-family: font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+#head-wrap {
+width: 265px;
+}
+
+#head1 {
+font-size:20px;
+float: left;
+width: 128px;
+}
+
+#head1 img {
+float: left;
+width: 128px;
+}
+
+
+#saveRegion1 {
+float: left;
+}
+
+#status1 {
+float: left;
+margin-left: 10px;
+}
+

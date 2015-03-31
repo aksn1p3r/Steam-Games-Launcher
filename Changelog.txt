@@ -1,0 +1,26 @@
+v0.1 - v0.5
+----------------------------------------------------------------------
+
+v0.6 - Incognito Search from Context Menu Text Selection
+
+14 December 2014
+----------------------------------------------------------------------
+v0.7 - 	New logo for 16, 48, 128 thumbnails.
+v0.8 - 	Omnibox keyword "i" added. (non-functional)
+v0.9 - 	Upgraded manifest.
+
+15 December 2014
+----------------------------------------------------------------------
+v1.0 - 	In Manifest:
+	a) Changed "background_page" to "background".
+	b) Set "background" from "background.html" to "background.js".
+	c) Removed Permissions: "Tabs", "Google.com"
+
+16 December 2014
+----------------------------------------------------------------------
+v1.1 - 	Added functionality to Omnibox keyword "i".
+v1.2 -  Added more search types into the context menu.
+
+23 December 2014
+----------------------------------------------------------------------
+v1.3 - 	Added options for region-specific incognito searches.
